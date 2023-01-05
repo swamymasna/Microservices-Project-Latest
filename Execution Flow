@@ -1,0 +1,25 @@
+** Start Zipkin Server from Command Prompt as follows :
+                C:\softwares>java -jar zipkin-server-2.23.4-exec.jar
+                Enter URL to View Zipkin UI : http://127.0.0.1:9411/
+
+1) Start Service Registry [Eureka Server]
+                Enter URL to View Eureka Server UI : http://localhost:8761
+
+2) Start Config Server 
+
+3) Start API Gateway
+
+4) Start Admin Server
+                Enter URL to View Admin Server UI : http://localhost:9999
+                
+5) Start Employee-Service
+
+6) Start Department-Service
+
+7) Start Organization-Service
+
+8) Refresh the Eureka Server
+
+9) Perform CURD Operations Using POSTMAN TOOL.
+
+10) Verify the Specific Databases to View the Data
